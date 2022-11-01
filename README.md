@@ -1,16 +1,40 @@
-### Hi there 👋
+### <center>Welcome to my profile 🍀✨⚡️🔥🌈💻</center>
+### <center>🍀  I just try to learning everything to make awesome things 🌈</center>
 
-<!--
-**leedrum/leedrum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### <center> Programing language </center>
+<center>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Ruby][Ruby]
+![Rails][Rails]
+![React][React.js]
+![TypeScript][TypeScript]
+![Js][Js]
+![Go][Go]
+![PHP][PHP]
+
+</center>
+
+---
+
+### Contact 💻
+👉 Mail: developer.levantung@gmail.com
+
+👉 LinkedIn  [linkedin.com/in/leedrum](https://www.linkedin.com/in/leedrum)
+
+---
+
+[![leedrum's GitHub stats](https://github-readme-stats.vercel.app/api?username=leedrum&theme=radical)](https://github.com/leedrum)
+
+[![Faceit Exts](https://github-readme-stats.vercel.app/api/pin/?username=leedrum&repo=faceit-exts&theme=radical)](https://github.com/leedrum/faceit-exts)
+
+[![Rails API Skeleton](https://github-readme-stats.vercel.app/api/pin/?username=leedrum&repo=rails-api-skeleton&theme=radical)](https://github.com/leedrum/rails-api-skeleton)
+
+[Ruby]: https://img.shields.io/badge/Ruby-20232A?style=for-the-badge&logo=ruby&logoColor=red
+[Rails]: https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[TypeScript]: https://img.shields.io/badge/Typescript-20232A?style=for-the-badge&logo=typescript&logoColor=61DAFB
+[Js]: https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=javascript&logoColor=yellow
+[Go]: https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white
+[PHP]: https://img.shields.io/badge/PHP-20232A?style=for-the-badge&logo=php&logoColor=61DAFB
