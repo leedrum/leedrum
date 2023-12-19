@@ -1,5 +1,5 @@
 ### <center>Welcome to my profile 🍀✨⚡️🔥🌈💻</center>
-### <center>🍀  I just try to learning everything to make awesome things 🌈</center>
+### <center>🍀  I just try to learn everything to make awesome things 🌈</center>
 
 ---
 
