@@ -25,10 +25,6 @@
 
 ---
 
-[![leedrum's GitHub stats](https://github-readme-stats.vercel.app/api?username=leedrum&theme=radical)](https://github.com/leedrum)
-
-[![Faceit Exts](https://github-readme-stats.vercel.app/api/pin/?username=leedrum&repo=faceit-exts&theme=radical)](https://github.com/leedrum/faceit-exts)
-
 [Ruby]: https://img.shields.io/badge/Ruby-20232A?style=for-the-badge&logo=ruby&logoColor=red
 [Rails]: https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
